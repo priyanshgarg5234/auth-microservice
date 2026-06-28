@@ -1,0 +1,19 @@
+# Node
+node_modules/
+dist/
+.env
+.env.*
+npm-debug.log*
+yarn-error.log*
+
+# Tests
+coverage/
+
+# Docker
+docker_data/
+mongo_data/
+redis_data/
+
+# OS
+.DS_Store
+Thumbs.db
